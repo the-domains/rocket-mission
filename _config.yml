@@ -12,4 +12,8 @@ color:
     - '#F4F482'
 layout_spectrum: 0.24395147082395852
 name: Rocket Mission
+navigation:
+  - name: Nav
+    url: rocketmission.com
+    type: external
 description: Modern furniture for the journey
